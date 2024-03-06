@@ -10,9 +10,11 @@ with col1:
 with col2:
     st.title("Miro")
     content = """
-    Hi there everyone my name is Miro I'am an adveturist an tech entusiast based in Italy. Currently I'am deeping in my knowledge 
-    in Python, Red hat administration and AWS in order to get certified. This site is a showcase of some applications and web applications I created as
-    a portafolio.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus est ut tellus congue, eget tincidunt nisl fringilla.
+             Integer ipsum lectus, rutrum et erat id, efficitur laoreet mauris. Ut porttitor bibendum magna hendrerit commodo. 
+             Maecenas porta, ligula in finibus elementum, lacus augue egestas libero, vitae eleifend quam nibh sed turpis. 
+             Nullam pulvinar mi velit, eu vestibulum lectus vehicula vitae. 
+             Fusce semper viverra quam, non auctor eros facilisis at. Sed tristique elit vel sapien bibendum venenatis. 
     """
     st.info(content)
 
